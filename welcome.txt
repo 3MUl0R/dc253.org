@@ -1,7 +1,7 @@
 <span id="a">DC253</span>:<span id="b">~</span><span id="c">$</span> cat welcome.txt<br/><br/>
 Hello Friend.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-<p> Join us on <a href="https://dc253.org">Discord</a>.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+<p> Join us on <a href="https://discord.gg/6QcHJXa">Discord</a>.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 
 <p>We meet on the last friday of each month at <a href="https://www.critiki.com/location/devils-reef-tacoma-1096/">Devil's Reef</a> in Tacoma</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
 
